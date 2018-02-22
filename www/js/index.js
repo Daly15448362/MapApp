@@ -85,14 +85,14 @@ function action(event) {
 
     var longit = response.results[0].geometry.location.lng;
     var latit = response.results[0].geometry.location.lat;
-
+ //add marker
     map.addMarker({
         'position':{lat:latit, lng:longit},
         'title': address.split('+').join(' '),
         'snippet': 'Lat: '+latit+' Lng:'+longit
     }, function(marker) {
 
-        // when the marker is created then do an INFO click and when its clicked add the long and lat to the MarkerPoints array.
+        //adds long and lat to info
         marker.on(plugin.google.maps.event.INFO_CLICK, function() {
             obj = {
                 'Lat': latit,
@@ -118,7 +118,7 @@ function MyLocation(event){
         'title': 'Current Location',
         'snippet': 'Lat: '+location.latLng.lat+' Lng:'+location.latLng.lng
     }, function(marker) {
-        // when the marker is created then do an INFO click and when its clicked add the long and lat to the MarkerPoints array.
+        // add lat and long to info
         marker.on(plugin.google.maps.event.INFO_CLICK, function() {
             obj = {
                 'lat': location.latLng.lat,
