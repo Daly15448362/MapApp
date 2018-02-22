@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "dalymarvel.example.com"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyCRP5t2cSu3tnnHbnpEE7m9OS8emP0CwOc",
+      "PLAY_SERVICES_VERSION": "11.8.0",
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.0",
+      "PACKAGE_NAME": "dalymarvel.example.com"
+    }
+  },
+  "dependent_plugins": {}
+}

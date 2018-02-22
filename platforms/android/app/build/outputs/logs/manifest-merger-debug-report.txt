@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [:tbxml-android:] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\tbxml-android.aar\45c5bb1553512bc1cf4418cec3b9c5eb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\71aedd2197d4af4eae72435b94cd0b3f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\2896a9ddc43e56b95f30c4c6721e5877\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\51a007dff75c04d593807403cc6d2a1d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\a2546d0ca23515a0e93bf75274abab90\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\1bff6bfaf75ec970cb8912ea76f4283c\AndroidManifest.xml:17:1-27:12
+MERGED from [:CordovaLib] C:\Users\Sean Daly\Desktop\MapApp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\2edee5b84baf4e5ab844f0fb44853881\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\f2d7d8d11f688e1ef9e925cb4ef2a13b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5b6acf5aa822a8f41fb521e2606c0646\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\5955e82d6814fd88935491af20839746\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\ce99f4ae1d3e4191f066f882e9615749\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4e864d9e3907304d0980c61ea9d388aa\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\bd5d41bf4d8c6b267eb94268f47badf4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0fdbd9b5711cba3b825a738784c5b4b2\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:102-134
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:135-193
+	android:versionCode
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\71aedd2197d4af4eae72435b94cd0b3f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\71aedd2197d4af4eae72435b94cd0b3f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\2896a9ddc43e56b95f30c4c6721e5877\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\2896a9ddc43e56b95f30c4c6721e5877\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\51a007dff75c04d593807403cc6d2a1d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\51a007dff75c04d593807403cc6d2a1d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\a2546d0ca23515a0e93bf75274abab90\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\a2546d0ca23515a0e93bf75274abab90\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\1bff6bfaf75ec970cb8912ea76f4283c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\1bff6bfaf75ec970cb8912ea76f4283c\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\2edee5b84baf4e5ab844f0fb44853881\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\2edee5b84baf4e5ab844f0fb44853881\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\f2d7d8d11f688e1ef9e925cb4ef2a13b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\f2d7d8d11f688e1ef9e925cb4ef2a13b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5b6acf5aa822a8f41fb521e2606c0646\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5b6acf5aa822a8f41fb521e2606c0646\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\5955e82d6814fd88935491af20839746\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\5955e82d6814fd88935491af20839746\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\ce99f4ae1d3e4191f066f882e9615749\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\ce99f4ae1d3e4191f066f882e9615749\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4e864d9e3907304d0980c61ea9d388aa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4e864d9e3907304d0980c61ea9d388aa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\bd5d41bf4d8c6b267eb94268f47badf4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\bd5d41bf4d8c6b267eb94268f47badf4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0fdbd9b5711cba3b825a738784c5b4b2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0fdbd9b5711cba3b825a738784c5b4b2\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#dalymarvel.example.com.MainActivity
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:12:9-124
+	android:value
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:12:66-121
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:13:20-65
+uses-sdk
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+MERGED from [:tbxml-android:] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\tbxml-android.aar\45c5bb1553512bc1cf4418cec3b9c5eb\AndroidManifest.xml:7:5-43
+MERGED from [:tbxml-android:] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\tbxml-android.aar\45c5bb1553512bc1cf4418cec3b9c5eb\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\71aedd2197d4af4eae72435b94cd0b3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\71aedd2197d4af4eae72435b94cd0b3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\2896a9ddc43e56b95f30c4c6721e5877\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\2896a9ddc43e56b95f30c4c6721e5877\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\4940f71f1eca267c37ebd46dfc7598fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\51a007dff75c04d593807403cc6d2a1d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\51a007dff75c04d593807403cc6d2a1d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\a2546d0ca23515a0e93bf75274abab90\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\a2546d0ca23515a0e93bf75274abab90\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\1bff6bfaf75ec970cb8912ea76f4283c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\1bff6bfaf75ec970cb8912ea76f4283c\AndroidManifest.xml:21:5-23:61
+MERGED from [:CordovaLib] C:\Users\Sean Daly\Desktop\MapApp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\Sean Daly\Desktop\MapApp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\2edee5b84baf4e5ab844f0fb44853881\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\2edee5b84baf4e5ab844f0fb44853881\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\f2d7d8d11f688e1ef9e925cb4ef2a13b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\f2d7d8d11f688e1ef9e925cb4ef2a13b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5b6acf5aa822a8f41fb521e2606c0646\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5b6acf5aa822a8f41fb521e2606c0646\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\5955e82d6814fd88935491af20839746\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\5955e82d6814fd88935491af20839746\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\ce99f4ae1d3e4191f066f882e9615749\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\ce99f4ae1d3e4191f066f882e9615749\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4e864d9e3907304d0980c61ea9d388aa\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4e864d9e3907304d0980c61ea9d388aa\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\bd5d41bf4d8c6b267eb94268f47badf4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\bd5d41bf4d8c6b267eb94268f47badf4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0fdbd9b5711cba3b825a738784c5b4b2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0fdbd9b5711cba3b825a738784c5b4b2\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\51a007dff75c04d593807403cc6d2a1d\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:15:15-41
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:18:22-76
+uses-feature#0x00020000
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\a9068ba8abba67a8af9ea5b30b68b00a\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:19:19-51
+	android:required
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:19:52-75
+uses-feature#android.hardware.location
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:20:19-59
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:21:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12 reason: za.co.twyst has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12 reason: za.co.twyst has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Sean Daly\Desktop\MapApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12 reason: za.co.twyst requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Sean Daly\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b43f56024d741e3c7dc7d7c019b24cfc\AndroidManifest.xml:24:13-79
